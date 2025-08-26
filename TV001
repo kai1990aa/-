@@ -1,14 +1,15 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/SBcZSsKA.png;md5;b3249d225e1e720653fc6dbf6fde21e6",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
     {
-      "key": "糯米",
+      "key": "荐片弹幕版",
       "name": "🇨🇳智能TV🇨🇳",
       "type": 3,
-      "api": "csp_NmysGuard",
+      "api": "csp_JianpianGuard",
       "searchable": 1,
+      "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
@@ -18,7 +19,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🍉瓜子影视",
+      "name": "🍉瓜子┃影视",
       "type": 3,
       "api": "csp_GuaziGuard",
       "searchable": 1,
@@ -31,7 +32,7 @@
     },
     {
       "key": "热播弹幕版",
-      "name": "📺热播影视",
+      "name": "📺热播┃影视",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -45,7 +46,7 @@
     },
     {
       "key": "天天弹幕版",
-      "name": "⛅️天天影视",
+      "name": "⛅️天天┃影视",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -59,7 +60,7 @@
     },
     {
       "key": "文才",
-      "name": "🌺文才影视",
+      "name": "🌺文才┃影视",
       "type": 3,
       "api": "csp_JpysGuard",
       "searchable": 1,
@@ -71,8 +72,21 @@
       "timeout": 10
     },
     {
+      "key": "糯米",
+      "name": "🍓糯米┃影视",
+      "type": 3,
+      "api": "csp_NmysGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
       "key": "浪酷弹幕版",
-      "name": "👓浪酷影视",
+      "name": "👓浪酷┃影视",
       "type": 3,
       "api": "csp_TianTianGuard",
       "searchable": 1,
@@ -86,7 +100,7 @@
     },
     {
       "key": "小苹果弹幕版",
-      "name": "🍎苹果影视",
+      "name": "🍎苹果┃影视",
       "type": 3,
       "api": "csp_XpgGuard",
       "searchable": 1,
@@ -98,34 +112,8 @@
       "timeout": 10
     },
     {
-      "key": "素白白弹幕版",
-      "name": "🐇白白影视",
-      "type": 3,
-      "api": "csp_SubaibaiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "小红弹幕版",
-      "name": "🐷小红影视",
-      "type": 3,
-      "api": "csp_XiaoHongGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "雄鹰弹幕版",
-      "name": "🦅雄鹰影视",
+      "name": "🦅雄鹰┃影视",
       "type": 3,
       "api": "csp_XiongYingGuard",
       "searchable": 1,
@@ -137,35 +125,8 @@
       "timeout": 10
     },
     {
-      "key": "时常弹幕",
-      "name": "🐥时常影视",
-      "type": 3,
-      "api": "csp_ShiChangGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-{
-      "key": "荐片弹幕版",
-      "name": "⚔️荐片边下边播",
-      "type": 3,
-      "api": "csp_JianpianGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "咖啡弹幕版",
-      "name": "🍫咖啡影视",
+      "name": "🍫咖啡┃影视",
       "type": 3,
       "api": "csp_KaFeiGuard",
       "searchable": 1,
@@ -177,47 +138,8 @@
       "timeout": 10
     },
     {
-      "key": "晴天弹幕版",
-      "name": "☀️晴天影视",
-      "type": 3,
-      "api": "csp_Sun4kGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "仓鼠弹幕版",
-      "name": "🐹仓鼠影视",
-      "type": 3,
-      "api": "csp_CangShuGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "榴莲弹幕版",
-      "name": "🍋榴莲影视",
-      "type": 3,
-      "api": "csp_LiulianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "韩圈",
-      "name": "🦄韩圈影视",
+      "name": "🦄韩圈┃影视",
       "type": 3,
       "api": "csp_HanXiaoQuanGuard",
       "playerType": 2,
@@ -231,7 +153,7 @@
     },
     {
       "key": "厂长弹幕版",
-      "name": "🌸厂长影视",
+      "name": "🌸厂长┃影视",
       "type": 3,
       "api": "csp_CzzyGuard",
       "searchable": 1,
@@ -244,7 +166,7 @@
     },
     {
       "key": "️爱看Bot弹幕版",
-      "name": "⛅️爱看影视",
+      "name": "⛅️爱看┃影视",
       "type": 3,
       "api": "csp_IkanbotGuard",
       "searchable": 1,
@@ -324,6 +246,16 @@
       "searchable": 1,
       "changeable": 0,
       "timeout": 20
+    },
+    {
+      "key": "聚合直播",
+      "name": "📽️聚合┃直播",
+      "type": 3,
+      "api": "csp_LivingGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "快手直播",
@@ -459,7 +391,6 @@
       },
       "timeout": 20
     },
-
     {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
@@ -643,17 +574,40 @@
     {
       "name": "凯少livev1",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/kai1990aa/-/refs/heads/main/zhi%20TV",
+      "url": "https://d.kstore.dev/download/4146/%E7%9B%B4%E6%92%AD%E6%AD%A3%E5%BC%8F%E7%89%88.txt",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "凯少livev2",
       "type": 0,
-      "url": "https://6758.kstore.space/666.txt",
-      "playerType": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+      "playerType": 2,
       "ua": "okhttp/3.15",
-      "epg": "https://diyp10.112114.xyz/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "timeout": 10
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.1.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.1.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.1.0"
     }
   ],
   "ijk": [
