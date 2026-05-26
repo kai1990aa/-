@@ -1,0 +1,97 @@
+{
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
+	"sites": [
+		{
+			"key": "php_麻豆",
+			"name": "🍎 麻豆(PHP)+",
+			"type": 4,
+			"api": "https://php.doube.eu.org/spider/php/麻豆.php"
+		}
+	
+	],
+	"lives": [
+		
+		{
+			"name": "🔞黄仓国产",
+			"url": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
+		},
+		{
+			"name": "🔞黄仓日韩",
+			"url": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u"
+		},
+		{
+			"name": "🔞MissAV",
+			"url": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/vod_missav.m3u"
+		},
+		{
+			"name": "🔞madou",
+			"url": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u"
+		},
+		{
+			"name": "🔞8108",
+			"url": "https://wget.la/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/8108部xxx.m3u"
+		}
+	],
+	"headers": [{
+		"host": "hlsztemgsplive.miguvideo.com",
+		"header": {
+			"User-Agent": "bingcha/1.1 (mianfeifenxiang)"
+		}
+	}],
+	"proxy": [
+		"raw.githubusercontent.com"
+	],
+	"hosts": [
+		"hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+		"push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+		"cdn9.163189.xyz=gcore.jsdelivr.net",
+		"cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+		"studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+	],
+	"ads": [
+		"static-mozai.4gtv.tv"
+	],
+	"doh": [{
+			"name": "Google",
+			"url": "https://dns.google/dns-query",
+			"ips": [
+				"8.8.4.4",
+				"8.8.8.8"
+			]
+		},
+		{
+			"name": "Cloudflare",
+			"url": "https://cloudflare-dns.com/dns-query",
+			"ips": [
+				"1.1.1.1",
+				"1.0.0.1",
+				"2606:4700:4700::1111",
+				"2606:4700:4700::1001"
+			]
+		},
+		{
+			"name": "AdGuard",
+			"url": "https://dns.adguard.com/dns-query",
+			"ips": [
+				"94.140.14.140",
+				"94.140.14.141"
+			]
+		},
+		{
+			"name": "DNSWatch",
+			"url": "https://resolver2.dns.watch/dns-query",
+			"ips": [
+				"84.200.69.80",
+				"84.200.70.40"
+			]
+		},
+		{
+			"name": "Quad9",
+			"url": "https://dns.quad9.net/dns-quer",
+			"ips": [
+				"9.9.9.9",
+				"149.112.112.112"
+			]
+		}
+	]
+}
