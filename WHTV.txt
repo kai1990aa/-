@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🇨🇳智能┃TV🇨",
+            "name": "🇨🇳智能┃TV🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -2152,57 +2152,42 @@
         "static-mozai.4gtv.tv"
     ],
     "lives": [
-        {
-            "name": "develop202",
-            "type": 0,
-            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "playerType": 2,
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Kimentanm",
-            "type": 0,
-            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "playerType": 2
-        },
-        {
-            "name": "范明明（需开启V6网络）",
-            "type": 0,
-            "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-            "playerType": 2
-        },
-        {
-            "name": "虎牙一起看",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        },
-        {
-            "name": "斗鱼一起看",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        },
-        {
-            "name": "B站直播",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/bililive.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        },
-        {
-            "name": "YY轮播",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        }
-    ]
+    {
+      "name": "凯少直播",
+      "type": 0,
+      "url": "https://4146.kstore.space/%E7%9B%B4%E6%92%AD%E6%AD%A3%E5%BC%8F%E7%89%88.txt",
+      "epg": " http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "综合直播",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "https://p.xbta.cc/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "裤老直播",
+      "type": 0,
+      "url": "https://4146.kstore.space/%E8%A3%A4%E8%80%81%E7%9B%B4%E6%92%AD.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "大蚂蚁直播",
+      "type": 0,
+      "url": "https://4146.kstore.space/%E5%A4%A7%E8%9A%82%E8%9A%81%E7%9B%B4%E6%92%AD.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "网络直播",
+      "type": 0,
+      "url": "https://4146.kstore.space/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    }
+  ]
 }
