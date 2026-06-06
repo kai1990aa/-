@@ -450,7 +450,7 @@
     {
       "name": "凯少直播",
       "type": 0,
-      "url": "https://4146.kstore.space/%E7%9B%B4%E6%92%AD%E6%AD%A3%E5%BC%8F%E7%89%88.txt",
+      "url": "https://raw.githubusercontent.com/kai1990aa/-/refs/heads/main/%E4%B8%BB%E7%9B%B4%E6%92%AD.txt",
       "epg": " http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
     {
